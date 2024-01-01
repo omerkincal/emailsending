@@ -19,4 +19,4 @@
 #### 4. If Maven is not installed:
 **Import the project into your preferred IDE (IntelliJ IDEA, Eclipse, etc.).**
 **Run the main application file to start the application.
-Access the application through the browser at http://localhost:9090 after starting.**
+Access the application through the browser at http://localhost:8080 after starting.**
