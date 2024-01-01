@@ -9,9 +9,9 @@
     cd mail-sending'
 
 #### 2. Go to your mail account.
-** 1. Activate 2-step verification. 
-   2. Then go to the application passwords in your mail account's settings and create a new project (for example emailsending-with-springboot).
-   3. You will be presented with a password that you have created. You need to paste this password into the password section in the application.yml file and write your mail in the username section.**
+**1. Activate 2-step verification.** 
+**2. Then go to the application passwords in your mail account's settings and create a new project (for example emailsending-with-springboot).**
+**3. You will be presented with a password that you have created. You need to paste this password into the password section in the application.yml file and write your mail in the username section.**
 #### 3. If Maven is installed: 
 **Open a terminal in the project directory and run:**
    'mvn spring-boot:run'
